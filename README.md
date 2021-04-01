@@ -21,4 +21,4 @@ Example for a setup:
     - README.md
     - ...
     
-To run this analysis execute the file 'z0_experiment.ipynb' with jupyter notebook.
+To run this analysis execute the file 'z0_experiment.ipynb' in 'z0-precisionmeasurement' in 'git' with jupyter notebook.
